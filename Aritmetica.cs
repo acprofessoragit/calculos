@@ -35,5 +35,14 @@ namespace Calculos
         {
             return x * y;
         }
+				/// <summary>
+		/// Operação duplicação.
+		/// </summary>
+  		/// <returns>Retorna o dobro do número.</returns>
+      public static int  Duplica(int y)
+        {
+            return 2 * y;
+        }
+
     }
 }

@@ -38,5 +38,25 @@ namespace Conversoes
 			return -1;
 		
         }
+		
+		/// <summary>
+		/// onverte distâncias.
+		/// </summary>
+		/// <returns>Retorna um valor à toa para testar os commits.</returns>
+       }
+      public static double  ConverterDistancias(int conversao, int distancia)
+        {
+			if ( conversao == ConversaoTemperatura.CelsiusFahrenheit)
+			{
+				return (temperatura* 1.8000 + 32);
+			}
+			else if ( conversao == ConversaoTemperatura.FahrenheitCelsius)
+			{
+				return ((temperatura - 32)/ 1.8000);
+			}
+			return -1;
+		
+        }
+		
     }
 }

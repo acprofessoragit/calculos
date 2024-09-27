@@ -10,12 +10,13 @@ Neste momento esta aplicação implementa:
 - Multiplicação
 - Duplicar
 - Conversão de temperaturas
-    - C :arrow_right: F
+    - C :arrow_right: F    
+    - F :arrow_right: C
 - Conversão de distâncias (em construção) .
 ## Tecnologias utilizadas
 - Notepad++
-- Visual Studio (sem extensão C#)
+- Visual Studio (com extensão Markdown enhanced, ainda sem C#)
 - Git
 - GitHub
-## Site oficial
-Faça o não download, mas pode ver notícias em: [Não existe] (www.sapo.pt)
+## Sem Site oficial
+Em construção...
